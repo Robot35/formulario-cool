@@ -10,12 +10,10 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
-.contenedor .form .form-header .form-title{
+
+.contenedor .form .form-header .form-title {
     font-weight: normal;
     font-family: sans-serif;
-    color: #8cc83b;
-}
-.contenedor .form .form-header .form-title {
     color: #fff;
     text-align: center;
 }
